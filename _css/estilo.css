@@ -1,0 +1,42 @@
+div.container {
+    padding-top: px;
+}
+.navbar-default {
+    background: rgba (255,255,255,0,.95);
+    color: aqua;
+}
+
+div.carousel-inner {
+    max-height: 550px;
+}
+
+@media (min-width:1170px) {
+    
+    div.carousel-inner {
+        max-height: 700px;
+    }
+}
+
+.tudo { display: table; }
+.menu { float: left; width: 30%; }
+.conteudo { margin-left: 35%; }
+
+
+p, h1, h2, h3,h4{ text-align: center; font-family:Arial,sans-serif}
+img.img-rounded {max-width: 150px; margin:0 auto; display: block}
+
+img#img-rounded {max-width: 150px; margin: 25px; display: block}
+
+.exemplolinha2{
+    height: 200px;
+}
+
+.icones{
+    height: 450px;
+}
+
+.margem{margin-top: 20px}
+.tamanho{max-height:250px; min-height: 10}
+.red{ background: red}
+.green{ background: #FF4500}
+.letras{background: #CDC9C9 }
